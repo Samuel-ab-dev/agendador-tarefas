@@ -1,4 +1,4 @@
-package infrastructure.exceptions;
+package com.seleste.agendador_tarefas.infrastructure.exceptions;
 
 public class ResourceNotFoundException extends RuntimeException {
     public ResourceNotFoundException(String message) {

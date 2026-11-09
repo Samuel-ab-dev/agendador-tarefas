@@ -1,7 +1,7 @@
-package infrastructure.security;
+package com.seleste.agendador_tarefas.infrastructure.security;
 
 import com.seleste.agendador_tarefas.business.DTO.UsuarioDTO;
-import infrastructure.security.client.UsuarioClient;
+import com.seleste.agendador_tarefas.infrastructure.security.client.UsuarioClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
