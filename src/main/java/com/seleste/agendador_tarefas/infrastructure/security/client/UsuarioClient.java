@@ -1,4 +1,4 @@
-package infrastructure.security.client;
+package com.seleste.agendador_tarefas.infrastructure.security.client;
 
 import com.seleste.agendador_tarefas.business.DTO.UsuarioDTO;
 import org.springframework.cloud.openfeign.FeignClient;
